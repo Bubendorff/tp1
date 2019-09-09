@@ -1,10 +1,13 @@
 # Answers
 
-Nom : 
-Prénom : 
+Nom : Soyeux 
+Prénom : olivier
 
 # 1.
 Qu'est-ce qu'une instance EC2 ?
+Une instance EC2 est un serveur virtuel hébergé dans Elastic Compute Cloud (EC2) pour exécuter des applications sur l'infrastructure Amazon Web Services (AWS).
+
+AWS est une plateforme de Cloud computing ; EC2 est un service qui permet d'exécuter des programmes applicatifs. Le service EC2 peut servir de parc à un nombre quasiment illimité de machines virtuelles.
 
 # 2.
 Qu'est-ce qu'un VPC ?
