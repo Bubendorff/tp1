@@ -31,6 +31,12 @@ Tag/balise (depuis le 15 janvier)
 # 4.
 Quelles sont les 5 propriétés désirables du cloud ?
 
+Paiement à l'usage
+Elastique
+Ouvert
+Mutualisé
+Libre-service
+
 # 5.
 Qu'est-ce que l'A/B Testing ?
 
