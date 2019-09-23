@@ -12,6 +12,11 @@ AWS est une plateforme de Cloud computing ; EC2 est un service qui permet d'exé
 # 2.
 Qu'est-ce qu'un VPC ?
 
+ Un Virtual Private Cloud (VPC) est un groupe de ressources informatiques configurables à la demande dans un environnement de cloud public, qui fournit un certain niveau d'isolement entre les différentes organisations ( utilisateurs) qui utilisent ces ressources. L'isolation entre le VPC et les autres utilisateurs du cloud est habituellement obtenue par l'utilisation d'un sous-réseau IP et d'un mécanisme de communication virtuel (tel qu'un VLAN ou un groupe de canaux chiffrés) pour chaque utilisateur.
+  Dans un VPC, le mécanisme pour fournir une isolation dans le cloud est complété par un service de VPN (pour chaque utilisateur) qui garantit la sécurité de l'accès des utilisateurs à distance aux ressources, grâce à un système d'authentification et de cryptographie.
+  Grâce à ces mécanismes d'isolement, l'organisation qui utilise le service travaille actuellement sur un 'nuage privé virtuel' d'où le nom VPC.
+  Les VPC sont couramment utilisés dans le contexte de l'infrastructure en tant que service (IaaS). Dans ce contexte, le fournisseur d'infrastructure (nuage) et le fournisseur de services VPC sur cette infrastructure pourraient être des entreprises différentes.
+
 # 3.
 A quoi sert un NSG ?
 
