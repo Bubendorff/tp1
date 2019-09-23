@@ -40,11 +40,15 @@ Libre-service
 # 5.
 Qu'est-ce que l'A/B Testing ?
 
+L’A/B testing consiste à comparer deux versions d’une page web ou d’une application afin de vérifier laquelle est la plus performante. Ces variations, dénommées A et B, sont présentées de manières aléatoires aux utilisateurs. Une partie d’entre eux sera alors dirigée vers la première version tandis que l’autre sera affectée à la seconde.
+
 # 6.
 Comment programmer le cloud ?
 
 # 7.
 Quelle est la technique pour faire un déploiement sans interruption de service ?
+
+Le Zero Downtime Deployment (ZDD) est une technique qui permet de déployer une nouvelle version d'un système sans intérompre le service. Le Blue/Green Deployment, le Canary Release et le Dark Launch sont différente variantes qui reprennent cette technique
 
 # 8.
 Qu'est-ce que le Canary release ?
