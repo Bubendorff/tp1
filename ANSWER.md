@@ -20,6 +20,14 @@ Qu'est-ce qu'un VPC ?
 # 3.
 A quoi sert un NSG ?
 
+Les NGS ou bien Network Security Group correspondent à ce que l’on appelle des matrices de flux. Il s’agit  d’un pare-feu logiciel qui s’applique sur différents éléments azure:
+
+Cartes réseaux/serveurs
+Base de données
+Passerelle VPN
+Sous réseau
+Tag/balise (depuis le 15 janvier)
+
 # 4.
 Quelles sont les 5 propriétés désirables du cloud ?
 
