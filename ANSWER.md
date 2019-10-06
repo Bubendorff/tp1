@@ -44,6 +44,7 @@ L’A/B testing consiste à comparer deux versions d’une page web ou d’une a
 
 # 6.
 Comment programmer le cloud ?
+avec infra as code
 
 # 7.
 Quelle est la technique pour faire un déploiement sans interruption de service ?
@@ -53,8 +54,13 @@ Le Zero Downtime Deployment (ZDD) est une technique qui permet de déployer une 
 # 8.
 Qu'est-ce que le Canary release ?
 
+permet de confronter la version N+1 à une population restreinte d’utilisateurs, tandis que la majorité des utilisateurs ont accès à la version N. Les mécanismes sont identiques au Blue/Green Deployment.
+
 # 9.
 Comment changer de taille de machine virtuelle ?
+ouvrir le gestionnaire de machine, puis aller dans menu Fichier, Gestionnaire de médias. Ici selectionner le disque dur dont vous souhaitez moodifier la taille et cliquer sur "propriétés". pour finir, aller dans l'onglet "attributs".  Il suffit de choisir la taille du disque que l'on souhaite l'appliquer.
 
 # 10.
 Qu'est-ce que le Blue/Green deployment ?
+pattern classique de ZDD. Il suppose que l’application soit hébergé sur au moins deux chaînes applicatives, puisque l’objectif est de déployer la version N+1 d’une application sur une des chaînes, tandis que le service est maintenu sur les chaînes encore en version N.
+
